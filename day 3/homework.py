@@ -1,16 +1,10 @@
-dato janey
-dhdb djcdh jchuif
- nceje fhvef
-nehfegvfegvrughvhruzfv vjrjghrui 
-jfhrghhhrh 
- hgeirgeg 
- fhsufhuf hfgughehh
-fdhsgf hvjfhhf
-hffhfhfhffhfhfhf
-fghhfrhfhdfjdhdurure rffrj
-bbfbfb cbcb bcbcbcb bcbc
-jhfhffhfhfhfhfh vhfh
-jfjffshh
-hfbdhgfdhgfhdg
-hbfhdgfhdgfh
-jdfhdb ggf  BufferError ch S 
+ djdfvwfedhggbv hjvhdfjvh  fhvbdf
+ fjgh df jfgn 
+fn gnbvcnv
+gn dj    jfnjfnbgruhtr v rhg
+hgb hdb gsgrghdgg
+ fjhbjhbjtjfhgf
+gmfvbfnjf
+frgbfjbvfv
+fjvg hght  gfjfgbrg vhtg
+fgnn  fbdvgdvs gsgs

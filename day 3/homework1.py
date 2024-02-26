@@ -1,8 +1,3 @@
-print("marita chitia")
-
-print("maxo gugava")
-
-print("salome gugaqva")
-
-print("giorgi gugava")
+messeage="game over"
+print=(messeage)
 

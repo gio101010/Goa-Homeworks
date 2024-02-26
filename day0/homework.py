@@ -13,7 +13,7 @@ print(5 + int ("5"))
 #step 1:  draw a square
 
 width(7)
-color("purple")
+color("green")
 forward(200)  
 left(90)
 
