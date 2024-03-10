@@ -13,7 +13,7 @@ print(5 + int ("5"))
 #step 1:  draw a square
 
 width(7)
-color("green")
+color("yellow")
 forward(200)  
 left(90)
 
@@ -30,7 +30,7 @@ left(90)
 #drawing a door
 
 forward(70)
-color("yellow")
+color("green")
 left(90)
 forward(120)     #height of the door 
 right(90)
@@ -42,7 +42,7 @@ penup()
 goto(200, 200)
 pendown()
 
-color("red")
+color("pink")
 begin_fill()
 right(150)
 forward(200)
