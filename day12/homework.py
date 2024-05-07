@@ -36,7 +36,7 @@ while i in range(100,0):
     print(i) 
 
 while i in range(0,10):
-    print(i)
+    print(i)  
 
 
 
