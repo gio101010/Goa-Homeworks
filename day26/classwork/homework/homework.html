@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Messi and Ronaldo</title>
+
+  <style>
+    body{
+      background-color: aqua;
+    }
+
+
+
+
+    .container {
+      display: flex;
+      justify-content: center;
+      align-items: flex-start;
+      margin-top: 50px;
+    }
+    .player {
+      margin: 0 20px;
+      text-align: center;
+    }
+    .player img {
+      max-width: 100%;
+      height: auto;
+    }
+    .info {
+      margin-top: 20px;
+      font-size: 18px;
+    }
+    .rnld{
+      font-size: 30px;
+      border-radius: 10px;
+      background-color: aquamarine;
+      transition: 0.2s;
+      cursor: pointer;
+    }
+    .rnld:hover{
+      transform: scale(1.2);
+      background-color: aqua;
+      color: lightseagreen;
+      border-radius: 30px;
+    }
+    .messi{
+      font-size: 30px;
+      border-radius: 10px;
+      background-color: aquamarine;
+      transition: 0.2s;
+      cursor: pointer;
+    }
+    .messi:hover{
+      transform: scale(1.2);
+      background-color: aqua;
+      color: lightseagreen;
+      border-radius: 30px;
+    }
+  </style>
+</head>
+<body>
+  <center><h1 style="font-size: 100px;">Football Legends</h1></center>
+  <div class="container">
+    <div class="player">
+      <h1>Lionel Messi</h1>
+      <img src="https://th.bing.com/th/id/R.e71af0c4184fc36bb30955261859603f?rik=fHpDOJLQiIjtyg&riu=http%3a%2f%2fwww.thesouthafrican.com%2fwp-content%2fuploads%2f2022%2f12%2fMessi-kiss-2048x1365.jpg&ehk=2hy3PQfyEtSRMQCq%2f0lqQJ79npDlhiE748gTjmE%2b9PE%3d&risl=&pid=ImgRaw&r=0" alt="Lionel Messi" width="300">
+      <div class="info">
+        <p>Argentine professional footballer who plays as a forward for Inter Miami and the Argentina national team.</p>
+        <a href="https://en.wikipedia.org/wiki/Lionel_Messi"><button class="messi">More ...</button></a>
+      </div>
+    </div>
+    
+    <div class="player">
+      <h1>Cristiano Ronaldo</h1>
+      <img src="https://images2.minutemediacdn.com/image/upload/c_crop,w_1920,h_1080,x_0,y_0/c_fill,w_720,ar_16:9,f_auto,q_auto,g_auto/images/voltaxMediaLibrary/mmsport/90min_fr_international_web/01g2svkdt1xexaaagynj.jpg" alt="Cristiano Ronaldo" width="330">
+      <div class="info">
+        <p>Portuguese professional footballer who plays as a forward for Al-Nassr and the Portugal national team.</p>
+       <a href="https://en.wikipedia.org/wiki/Cristiano_Ronaldo"> <button class="rnld">More ...</button></a>
+      </div>
+    </div>
+  </div>
+</body>
+</html>
+
+
+
+
+
+
+
