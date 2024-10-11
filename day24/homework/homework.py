@@ -1,4 +1,3 @@
-
 #დავალება: ეცადეთ შექმნათ კალკულატორი პითონში
 num1 = int(input("sheiyvane pirveli ricxvi: "))
 num2 = int(input("sheiyvane meore ricxvi: "))
